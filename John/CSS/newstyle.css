@@ -1,0 +1,17 @@
+a{
+    background-color: #456;
+    color: white;
+    text-align: center;
+    display:inline-block;
+    padding: 12px 25px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: red;
+
+}
+#active {
+    background-color: rgb(19, 65, 249);
+}
+
